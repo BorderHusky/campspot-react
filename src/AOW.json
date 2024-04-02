@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Name That Tune",
+        "description": "This game can be played with small to large groups as well as the entire camp. It is also a great game for 'breaking the ice' on the first day/night of Camp. Campers sit boys vs girls in bunk order on each side of the Lindendome leaving an aisle in the middle for campers to run down. There will be 2 boy judges for girls side and 2 girl judges for boys side sitting at the end of the aisle. At the start of each round, have 2 campers come up from the bunks that will participate in the round. Show them the dance move they will be doing for that round and tell them what they need to give for the answer (song title/artist, tv show or movie/character etc.) The song for that round is then played and they must work as a pair to perform the dance move down the aisle to the judges. Full points are given for being the first to reach the judges and give the correct answers or 1 point can be received for partial answers. In the middle of the activity there will be a dance off between boys and girls side. The whole of camp participates and points will be awarded for creativity, participation, and funky dance moves!",
+        "equipmentNeeded": [
+          "Music",
+          "Amp",
+          "Mic",
+          "List of songs/dance moves",
+          "Bench for judges"
+        ],
+        "staffNeeded": [
+          "4 Judges (2 for each team)",
+          "MC",
+          "Example Dancers"
+        ]
+    },
+    {
+        "name": "LIMBO",
+        "description": "Head staff will limbo at lunch. Campers come in pairs from every bunk and limbo, in an elimination style competition. Campers must hold hands as they attempt to complete the limbo challenge. Music will be playing in the background.",
+        "equipmentNeeded": [
+            "Limbo Stick",
+            "Amp",
+            "Mic",
+            "iPod"
+        ],
+        "staffNeeded": [
+            "MC",
+            "Limbo Judge"
+        ]
+    },
+    {
+        "name": "The Sing Off",
+        "description": "Campers split into bunks in different areas. The MC will give each bunk a “theme” eg: blue, happiness, winter, love, summer. Bunks will then have to think of all the songs they can with those specific themes. The MC will randomly call on the different groups to sing a song based on the theme they have been given. Bunks can not use songs that other bunks have already used, the last bunk left wins the round. The game then proceeds into a new round with a new theme.",
+        "equipmentNeeded": [
+            "Mic",
+            "Amp"
+        ],
+        "staffNeeded": [
+            "MC"
+        ]
+    },
+    {
+        "name": "Lindenmere Bingo (Jr Camp)",
+        "description": "Campers sit by bunks, each camper has their own bingo pad. The MC will call out the different Lindenmere squares. If a camper fills a row/diagonal they win their bunk a prize.",
+        "equipmentNeeded": [
+                "Bingo pads for each camper",
+                "Sharpies"
+            ]
+        },
+    {    "staffNeeded": [
+            "MC",
+            "Judge"
+        ]
+    },
+    {
+        "name": "Lindenmania",
+        "description": "Bunks will bet on pre recorded events. Bets are all double or nothing. At the end of the evening one boys bunk and one girls bunk from each division will receive a prize for winning.",
+        "equipmentNeeded": [
+            "Projector",
+            "Screen"
+        ],
+        "staffNeeded": [
+            "MC",
+            "Bookie"
+        ]
+    },
+    {
+        "name": "Ultimate Music Quiz",
+        "escription": "The campers participate in a bunk vs bunk style quiz show, bunks can buzz in to answer a series of music related questions, questions can vary from naming the artist and title of song played on the iPod, guess a song being hummed, guessing a song from a soundtrack after hearing scene from the movie, contestants might also have to guess a song after hearing it read in spoken word. The host will ask the questions and DLs will be the judge of who buzzes in first.",
+        "equipmentNeeded": [
+            "Amp",
+            "Mic",
+            "iPod"
+        ],
+        "staffNeeded": [
+            "MC",
+            "Buzzer Judges"
+        ]
+    },
+    {
+        "name": "Human Hungry Hippo",
+        "description": "One camper from each bunk will lay on a skateboard and be pushed into the center while holding a laundry basket to scoop as many balloons as possible, in the style of the game hungry hungry hippo. 1 Counselor will have hold of a rope attached to the skateboard to pull the camper back to base. The next camper will then lay on the skateboard to be pushed into the center. The team with the most balloons at the end of the round wins.",
+        "equipmentNeeded": [
+            "Amp",
+            "Mic",
+            "Skateboards",
+            "Helmets",
+            "Elbow pads",
+            "Rope",
+            "Balloons",
+            "Laundry basket/Box"
+        ],
+        "staffNeeded": [
+            "MC",
+            "Safety Supervisors",
+            "Pushers/Pullers"
+        ]
+    },
+    {
+        "name": "Netflix Night",
+        "description": "This a middle & junior camp thursday night evening activity. Campers and counselors will be in the rec hall with Netflix playing on the projector. Campers can vote for a movie or TV Show from the kids section. Encourage capers to bring their pillows and blankets. Canteen will be done there. Have 2-3 tv shows selected ahead of time and allow them to vote on majority of the choice they want to watch.",
+        "equipmentNeeded": [
+            "Projector",
+            "Screen",
+            "Computer setup with WiFi Extension from computer lab"
+        ],
+        "staffNeeded": [
+            "MC"
+        ]
+    }
+]

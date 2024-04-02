@@ -1,0 +1,8 @@
+/* Header.css */
+.homepage__name {
+    font-weight: bolder;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: #8400ff5f;
+    width: 100%;
+}
